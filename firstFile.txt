@@ -6,4 +6,6 @@ i am new to git
 
 will you help me to understand git
 
+creating new branch
+
 Thank you
